@@ -233,6 +233,16 @@ h6 {
   visibility: visible;
 }
 
+.locationsstyle{
+ /* margin: 1px; */
+  border:3px solid black;
+  border-radius: 20px;
+  padding: 5px 5px 5px 5px;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
 @media (max-width: 1366px) {
   .navbar .dropdown .dropdown ul {
     left: -90%;
